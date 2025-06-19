@@ -41,3 +41,5 @@ With more time, I would:
 - Improve the mobile experience further
 - Add more comprehensive form validation
 - Implement proper authentication
+- dark/light mode toggle
+- notes searching
